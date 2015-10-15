@@ -42,13 +42,7 @@
                                       </block>
                                     </value>
                                     <next>
-                                      <block type="movement_leftmotor" id="192" inline="true">
-                                        <value name="MOVLEFT">
-                                          <block type="math_number" id="199">
-                                            <field name="NUM">3000</field>
-                                          </block>
-                                        </value>
-                                      </block>
+                                      <block type="movement_reverse" id="281"></block>
                                     </next>
                                   </block>
                                 </next>
